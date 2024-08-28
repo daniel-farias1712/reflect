@@ -1,0 +1,7 @@
+
+ @interface Tabela {
+
+    String value();
+
+
+}
